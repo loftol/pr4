@@ -29,7 +29,7 @@ class LinkedList{
 	public:
 		//생성자, 초기화 
 		LinkedList(){
-			first = 0'
+			first = 0;
 			current_size = 0;
 		};
 
